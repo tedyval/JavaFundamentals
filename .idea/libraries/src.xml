@@ -1,0 +1,49 @@
+<component name="libraryTable">
+  <library name="src">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Fuhdamentals/src/christmas.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Fuhdamentals/src/ShoppingSpree.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Fuhdamentals/src/StackOfStrings.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Fuhdamentals/src/person.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Fuhdamentals/src/workingWithAbstraction.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Fuhdamentals/src/animals.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Fuhdamentals/src/ClassBox.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Fuhdamentals/src/FootballTeamGenerator.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Fuhdamentals/src/MultipleInheritance.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Fuhdamentals/src/SingleInheritance.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Fuhdamentals/src/Telephony.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Fuhdamentals/src/cafe.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Fuhdamentals/src/MultipleImplementation.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Fuhdamentals/src/NeedForSpeed.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Fuhdamentals/src/WildFarm.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Fuhdamentals/src/FoodStorage.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Fuhdamentals/src/SayHello.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Fuhdamentals/src/Reflection.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Fuhdamentals/src/ValidationData.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Fuhdamentals/src/BirthdayCelebrations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Fuhdamentals/src/SortByNameAndAge.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Fuhdamentals/src/HierarchicalInheritance.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Fuhdamentals/src/restaurant.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Fuhdamentals/src/SayHelloExtended.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Fuhdamentals/src/Ferrari.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Fuhdamentals/src/FirstAndReserveTeam.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Fuhdamentals/src/AnimalFarm.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Fuhdamentals/src/MathOperation.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Fuhdamentals/src/Shapes.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Fuhdamentals/src/DefineAnInterfacePerson.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Fuhdamentals/src/Vehicle.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Fuhdamentals/src/BorderControl.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Fuhdamentals/src/hero.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Fuhdamentals/src/SalaryIncrease.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Fuhdamentals/src/CarShop.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Fuhdamentals/src/CarShopExtended.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Fuhdamentals/src/Animalss.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Fuhdamentals/src/PizzaCalories.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Fuhdamentals/src/RandomArrayList.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Fuhdamentals/src/zoo.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Fuhdamentals/src/MilitaryElite.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
